@@ -161,7 +161,7 @@ The upgraded V2 experimental DC microgrid bench is shown below.
 
 ## Author
 
-**[Fulong Li](https://fulongli.github.io/)**, Loughborough University.
+**[Fulong Li](https://fulongli.github.io/)**, Loughborough, 2022.
 
 ---
 
