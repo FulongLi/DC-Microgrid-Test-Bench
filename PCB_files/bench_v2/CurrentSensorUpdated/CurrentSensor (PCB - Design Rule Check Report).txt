@@ -1,0 +1,66 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, September 14, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.pcb
+Design Title:       
+Created:            16/05/2020 13:51:15
+Last Saved:         14/09/2020 12:51:43
+Editing Time:       1389 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

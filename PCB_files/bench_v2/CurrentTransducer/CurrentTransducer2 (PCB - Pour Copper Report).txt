@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Saturday, May 09, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer2.pcb
+Design Title:       
+Created:            09/05/2020 12:47:31
+Last Saved:         09/05/2020 13:42:02
+Editing Time:       55 min
+Units:              mm (precision 1)
+
+
+End Of Report.

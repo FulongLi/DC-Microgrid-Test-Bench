@@ -1,0 +1,28 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, September 14, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.pcb
+Design Title:       
+Created:            16/05/2020 13:51:15
+Last Saved:         14/09/2020 12:51:43
+Editing Time:       1388 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.sch" with PCB "C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.pcb"
+======================================================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Disconnect Pin CONN1-1 from Net "N0001"
+Disconnect Pin CONN2-1 from Net "N0000"
+
+Delete Net "N0000"
+Delete Net "N0001"
+
+
+End Of Report.

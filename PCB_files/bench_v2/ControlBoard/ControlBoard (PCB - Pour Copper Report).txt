@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Saturday, May 23, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.pcb
+Design Title:       
+Created:            16/12/2019 12:40:18
+Last Saved:         23/05/2020 19:10:07
+Editing Time:       12437 min
+Units:              mm (precision 1)
+
+
+End Of Report.

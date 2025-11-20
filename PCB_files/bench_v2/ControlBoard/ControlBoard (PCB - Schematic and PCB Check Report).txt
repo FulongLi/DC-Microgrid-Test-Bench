@@ -1,0 +1,33 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Saturday, May 23, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.pcb
+Design Title:       
+Created:            16/12/2019 12:40:18
+Last Saved:         23/05/2020 19:06:32
+Editing Time:       12432 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "ControlBoard"
+=========================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Disconnect Pin IC2-1 from Net "+5V"
+
+Component 'TPS75933KTTT' package 'TO170P1524X483-6N' in PCB is newer version than Schematic, use Update Component to correct this.
+
+Value "Mouser Part Number" on component instance "IC5" caused by library item mismatch.
+
+Value "Mouser Price/Stock" on component instance "IC5" caused by library item mismatch.
+
+Use Update to reload Component "TPS75933KTTT" to add/alter Value "RS Part Number"
+Use Update to reload Component "TPS75933KTTT" to add/alter Value "RS Price/Stock"
+Use Update to reload Component "TPS75933KTTT" to add/alter Value "Datasheet Link"
+
+End Of Report.

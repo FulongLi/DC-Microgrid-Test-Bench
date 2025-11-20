@@ -1,0 +1,18 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, September 14, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.pcb
+Design Title:       
+Created:            16/05/2020 13:51:15
+Last Saved:         10/09/2020 13:17:29
+Editing Time:       1386 min
+Units:              mm (precision 1)
+
+Disconnected pin "J1.3" from net "GND".
+
+Connected pin "J1.3" to net "-15V".
+
+
+End Of Report.

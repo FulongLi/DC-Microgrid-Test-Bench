@@ -1,0 +1,66 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Saturday, May 23, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoard\ControlBoard.pcb
+Design Title:       
+Created:            16/12/2019 12:40:18
+Last Saved:         23/05/2020 19:10:07
+Editing Time:       12437 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                No
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

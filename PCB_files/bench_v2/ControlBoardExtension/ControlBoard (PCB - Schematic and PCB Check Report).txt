@@ -1,0 +1,20 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, September 11, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoardExtension\ControlBoard.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoardExtension\ControlBoard.pcb
+Design Title:       
+Created:            16/12/2019 12:40:18
+Last Saved:         11/09/2020 18:32:49
+Editing Time:       13811 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoardExtension\ControlBoard.sch" with PCB "C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\ControlBoardExtension\ControlBoard.pcb"
+======================================================================================================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.

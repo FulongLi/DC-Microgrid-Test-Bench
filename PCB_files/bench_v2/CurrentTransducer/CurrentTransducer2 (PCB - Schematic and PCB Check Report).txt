@@ -1,0 +1,31 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Saturday, May 09, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer2.pcb
+Design Title:       
+Created:            09/05/2020 12:47:31
+Last Saved:         09/05/2020 13:41:19
+Editing Time:       54 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrenTransducer.sch" with PCB "C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer2.pcb"
+==========================================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Component 'ADP122AUJZ-2.5-R7' package 'SOT95P280X100-5N' in PCB is newer version than Schematic, use Update Component to correct this.
+
+Value "Farnell Part Number" on component instance "IC4" caused by library item mismatch.
+
+Value "Farnell Price/Stock" on component instance "IC4" caused by library item mismatch.
+
+Use Update to reload Component "ADP122AUJZ-2.5-R7" to add/alter Value "RS Part Number"
+Use Update to reload Component "ADP122AUJZ-2.5-R7" to add/alter Value "RS Price/Stock"
+Use Update to reload Component "ADP122AUJZ-2.5-R7" to add/alter Value "Datasheet Link"
+
+End Of Report.

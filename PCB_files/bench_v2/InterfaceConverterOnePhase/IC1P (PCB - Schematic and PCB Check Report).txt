@@ -1,0 +1,20 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Tuesday, May 12, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.pcb
+Design Title:       
+Created:            03/05/2020 15:01:07
+Last Saved:         12/05/2020 15:27:32
+Editing Time:       825 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.sch" with PCB "C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.pcb"
+==================================================================================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.

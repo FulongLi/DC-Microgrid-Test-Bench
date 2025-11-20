@@ -1,0 +1,32 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, May 12, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.pcb
+Design Title:       
+Created:            03/05/2020 15:01:07
+Last Saved:         12/05/2020 14:45:55
+Editing Time:       783 min
+Units:              mm (precision 1)
+
+Disconnected pin "PL1.3" from net "N0142".
+Disconnected pin "PL1.4" from net "N0146".
+Disconnected pin "PL1.5" from net "N0143".
+Disconnected pin "PL1.6" from net "N0147".
+Disconnected pin "PL1.9" from net "N0154".
+Disconnected pin "PL1.11" from net "N0155".
+Disconnected pin "PL1.15" from net "N0157".
+Disconnected pin "PL1.17" from net "N0159".
+
+Deleted net "N0142".
+Deleted net "N0143".
+Deleted net "N0146".
+Deleted net "N0147".
+Deleted net "N0154".
+Deleted net "N0155".
+Deleted net "N0157".
+Deleted net "N0159".
+
+
+End Of Report.

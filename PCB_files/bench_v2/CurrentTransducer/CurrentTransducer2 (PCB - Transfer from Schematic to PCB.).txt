@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Saturday, May 09, 2020
+Design Path:        C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer2.pcb
+Design Title:       
+Created:            09/05/2020 12:47:31
+Last Saved:         09/05/2020 12:48:36
+Editing Time:       1 min
+Units:              mm (precision 1)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

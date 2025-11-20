@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Tuesday, May 12, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\InterfaceConverterOnePhase\IC1P.pcb
+Design Title:       
+Created:            03/05/2020 15:01:07
+Last Saved:         12/05/2020 15:25:21
+Editing Time:       824 min
+Units:              mm (precision 1)
+
+
+End Of Report.

@@ -1,0 +1,17 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, May 08, 2020
+Project Path:       C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer.prj
+Design Path:        C:\Users\Temp\Desktop\Converter Design\CurrentTransducer\CurrentTransducer.pcb
+Design Title:       
+Created:            08/05/2020 15:03:45
+Last Saved:         08/05/2020 16:55:23
+Editing Time:       112 min
+Units:              mm (precision 1)
+
+Renamed component reference "IC4" to "IC4".
+
+
+
+End Of Report.

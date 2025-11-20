@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Monday, September 14, 2020
+Project Path:       C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.prj
+Design Path:        C:\Users\Temp\Desktop\BoardDesignForLboroDCMG\CurrentSensorUpdated\CurrentSensor.pcb
+Design Title:       
+Created:            16/05/2020 13:51:15
+Last Saved:         14/09/2020 12:50:36
+Editing Time:       1388 min
+Units:              mm (precision 1)
+
+
+End Of Report.
